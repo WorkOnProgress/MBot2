@@ -23,6 +23,7 @@ Je vous propose l'intégralité du cours gratuitement et sans droit d'auteur, ca
 Envoyez-moi un email lorsque vous avez aimé le cours ou lorsque vous avez des améliorations à ajouter.
 
 Merci et bonne chance !
+
 Tobias Nijmeijer
 nijmeijer@gmail.com
 
